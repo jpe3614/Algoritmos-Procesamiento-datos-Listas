@@ -8,7 +8,9 @@ N°de grupo: 6
 Integrantes del grupo:
 
 Juan Góngora
+
 Alessandro Massara
+
 Ezequiel Simón
 
 CICLO LECTIVO 2026
